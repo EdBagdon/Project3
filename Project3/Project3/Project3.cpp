@@ -2,6 +2,8 @@
 //
 
 #include "stdafx.h"
+#include "MyMemoryManager.h"
+
 
 
 int main()
